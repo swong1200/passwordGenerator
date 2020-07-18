@@ -1,3 +1,8 @@
 h1 {
     color: brown;
 }
+.border {
+    border-style: dotted;
+    border-width: 10px;
+    padding: 100px;
+}
