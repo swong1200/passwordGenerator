@@ -13,13 +13,12 @@ Once they select the character length, there are then four parameters that the u
 *Numbers - use confirm to test if true or false
 *Special Characters - use confirm to test if true or false
 
-If the user does not select at least one parameter, the prompts will start over. (use a while loop to confirm at least one parameter)
+If the user does not select at least one parameter, the prompts will start over. (While loop to confirm at least one parameter)
 
-Once at least one parameter has been met, I will need to grab the characters from the corresponding arrays.  (I will use for loops to achieve this.)
+I will now need to determine which parameters were selected and make them available to be chosen in a new array. (if statements and concatenation of a blank array)
 
-I will need to add the characters that were grabbed to a new array.  (I will concatenate these)
-
-I will then select the amount of characters that the user input length designates. (Math.Floor(Math.random) using a for loop with the index set to user input length)
+I will then grab random characters from the concatenated array.  ( For loop plus Math.floor(Math.random) method)
 
 The final password will then appear in the field within the html. (The password text will become the password in the function)
 
+Here is a link to my [Password Generator](https://swong1200.github.io/passwordGenerator/)
