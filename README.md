@@ -22,3 +22,5 @@ I will then grab random characters from the concatenated array.  ( For loop plus
 The final password will then appear in the field within the html. (The password text will become the password in the function)
 
 Here is a link to my [Password Generator](https://swong1200.github.io/passwordGenerator/)
+
+Screenshot: https://github.com/swong1200/passwordGenerator/issues/1#issue-663385109
